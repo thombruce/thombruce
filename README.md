@@ -2,13 +2,15 @@
 
 I'm a full stack web and software developer, specialised in Ruby and JavaScript.
 
+I ❤️&nbsp; Vue.js and Ruby on Rails!
+
 #### Recent Projects
 
-##### [Vue Fountain](https://github.com/thombruce/vue-fountain) 🖋
+##### 🖋 &nbsp; [Vue Fountain](https://github.com/thombruce/vue-fountain)
 
 Vue Fountain is a component library for Vue.js that parses and displays the [Fountain](https://fountain.io/) screenplay format.
 
-##### [Vue Timepiece](https://github.com/thombruce/vue-timepiece) 🕓
+##### 🕓 &nbsp; [Vue Timepiece](https://github.com/thombruce/vue-timepiece)
 
 Vue Timepiece is a component library for Vue.js that provides digital and analog clock components along with timers and countdowns.
 
