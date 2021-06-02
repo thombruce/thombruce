@@ -2,8 +2,6 @@
 
 I'm a full stack web and software developer, specialised in Ruby and JavaScript.
 
-I ❤️&nbsp; Vue.js and Ruby on Rails!
-
 #### Recent Projects
 
 ##### 🖋 &nbsp; [Vue Fountain](https://github.com/thombruce/vue-fountain)
