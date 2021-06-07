@@ -4,6 +4,10 @@ I'm a full stack web and software developer, specialised in Ruby and JavaScript.
 
 #### Recent Projects
 
+##### 🏷 &nbsp; [Nuxt Taxonomies](https://github.com/thombruce/nuxt-taxonomies)
+
+Nuxt Taxonomies adds automatic taxonomy support (tags, categories, etc.) to Nuxt Content.
+
 ##### 🖋 &nbsp; [Vue Fountain](https://github.com/thombruce/vue-fountain)
 
 Vue Fountain is a component library for Vue.js that parses and displays the [Fountain](https://fountain.io/) screenplay format.
