@@ -2,6 +2,7 @@
 
 I'm a full stack web and software developer, specialised in Ruby and JavaScript.
 
+<!--
 #### Recent Projects
 
 ##### 🏷 &nbsp; [Nuxt Taxonomies](https://github.com/thombruce/nuxt-taxonomies)
@@ -15,6 +16,7 @@ Vue Fountain is a component library for Vue.js that parses and displays the [Fou
 ##### 🕓 &nbsp; [Vue Timepiece](https://github.com/thombruce/vue-timepiece)
 
 Vue Timepiece is a component library for Vue.js that provides digital and analog clock components along with timers and countdowns.
+-->
 
 <!--
 **thombruce/thombruce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
