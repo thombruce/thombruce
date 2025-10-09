@@ -2,6 +2,8 @@
 
 I'm a full stack web and software developer, specialised in Ruby and JavaScript.
 
+[.dotfiles](https://github.com/thombruce/.dotfiles)
+
 <!--
 #### Recent Projects
 
