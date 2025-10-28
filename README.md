@@ -2,6 +2,8 @@
 
 I'm a full stack web and software developer, specialised in Ruby and JavaScript.
 
+[CV](https://github.com/thombruce/cv/releases/latest/download/Thom-Bruce_CV.pdf)
+
 [.dotfiles](https://github.com/thombruce/.dotfiles)
 
 <!--
