@@ -6,11 +6,15 @@ I'm a full stack web and software developer, specialised in Ruby and JavaScript.
 
 [.dotfiles](https://github.com/thombruce/.dotfiles)
 
-![thombruce's Stats](https://github-readme-stats.vercel.app/api?username=thombruce&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
 
-![thombruce's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thombruce&theme=dark&hide_border=true)
+  ![thombruce's Stats](https://github-readme-stats.vercel.app/api?username=thombruce&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![thombruce's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thombruce&theme=dark&show_icons=true&hide_border=true&layout=compact)
+  ![thombruce's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thombruce&theme=dark&hide_border=true)
+
+  ![thombruce's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thombruce&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
 
 <!--
 #### Recent Projects
