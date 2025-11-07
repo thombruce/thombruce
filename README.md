@@ -7,13 +7,9 @@ I'm a full stack web and software developer, specialised in Ruby and JavaScript.
 [.dotfiles](https://github.com/thombruce/.dotfiles)
 
 <div align="center">
-
-  ![thombruce's Stats](https://github-readme-stats.vercel.app/api?username=thombruce&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-  ![thombruce's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thombruce&theme=dark&hide_border=true)
-
-  ![thombruce's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thombruce&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
+  <p><img src="https://github-readme-stats.vercel.app/api?username=thombruce&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="thombruce's Stats" width="495"/></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thombruce&theme=dark&hide_border=true" alt="thombruce's Streak" width="495"/></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thombruce&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="thombruce's Top Languages" width="495"/></p>
 </div>
 
 <!--
