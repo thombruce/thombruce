@@ -8,7 +8,7 @@ I'm a full stack web and software developer, specialised in Ruby and JavaScript.
 
 <div align="center">
   <div><img src="https://github-readme-stats.vercel.app/api?username=thombruce&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="thombruce's Stats" width="495"/></div>
-  <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=thombruce&theme=dark&hide_border=true" alt="thombruce's Streak" width="495"/></div>
+  <div><img src="https://streak-stats.demolab.com?user=thombruce&theme=dark&hide_border=false" alt="thombruce's Streak" width="495"/></div>
   <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thombruce&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="thombruce's Top Languages" width="495"/></div>
 </div>
 
